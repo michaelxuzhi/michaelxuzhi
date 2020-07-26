@@ -39,7 +39,3 @@ Now I doing a QA job in GZ(广州).
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via michaelxuzhi@foxmail.com to reach me.
 - 👀 See my [Weibo](https://weibo.com/1917033722/profile?topnav=1&wvr=6&is_all=1) to get more info.
-
-![Michael Xuzhi's github stats](https://github-readme-stats.vercel.app/api?username=michaelxuzhi&show_icons=true&hide_border=true)
-
-⭐️ From [michaelxuzhi](https://github.com/michaelxuzhi)

@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 
 ### Welcome to Michael Xuzhi's Github ~ 👋
 
-<a href="https://weibo.com/1917033722/profile?topnav=1&wvr=6">
-  <img align="left" alt="Weibo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/sinaweibo.svg" />
-</a>
+
 <a href="https://github.com/michaelxuzhi">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
 </a>
@@ -38,4 +36,3 @@ Now I doing a QA job in GZ(广州).
 - ⚡ I like making tools that help my daily work and designing Web Layout by JS/CSS/HTML.
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via michaelxuzhi@foxmail.com to reach me.
-- 👀 See my [Weibo](https://weibo.com/1917033722/profile?topnav=1&wvr=6&is_all=1) to get more info.

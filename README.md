@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-Hi, I'm Michaelxuzhi 😉, China 🇨🇳. I'm a part-time JS/Python/C++ programmer. But actually I major in network engineering during my college life. Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
+Hi, I'm Michael xuzhi, China 🇨🇳. I'm a part-time JS/Python/C++ programmer. But actually I major in network engineering during my college life. 
 <br />
-Now I doing a QA job in GZ(广州).
+Now working as a Game-Testing Enginner.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
@@ -34,5 +34,4 @@ Now I doing a QA job in GZ(广州).
 - 👨🏻‍💻 I’m currently working as a QA.
 - 🌱 I’m currently learning Python.
 - ⚡ I like making tools that help my daily work and designing Web Layout by JS/CSS/HTML.
-- 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via michaelxuzhi@foxmail.com to reach me.
